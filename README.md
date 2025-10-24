@@ -36,8 +36,8 @@ I'm a passionate developer who loves designing intuitive user experiences and bu
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kritika11-engg&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kritika11-engg&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
